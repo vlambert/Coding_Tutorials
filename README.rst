@@ -9,4 +9,4 @@ https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_
 If you are having trouble installing Python on your own computer, you can also work interact with the Jupyter notebooks online with the following binder link:
 
 .. image:: https://mybinder.org/badge_logo.svg
-	   :target: https://mybinder.org/v2/gh/vlambert/Coding_Tutorials
+ :target: https://mybinder.org/v2/gh/vlambert/Coding_Tutorials/HEAD
