@@ -6,7 +6,7 @@ To get started, you will want to have Anaconda installed on your computer. If yo
 
 https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_Python.html
 
-If you are having trouble installing Python on your own computer, you can also work interact with the Jupyter notebooks online with the following binder link:
+If you are having trouble installing Python on your own computer, you can also work interactively with the Jupyter notebooks online with the following binder link:
 
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/vlambert/Coding_Tutorials/HEAD
