@@ -6,6 +6,8 @@ If you encounter any problems or have any questions, feel free to contact Valèr
 
 To get started, you will want to have Anaconda installed on your computer. If you do not already, please follow this link:
 
+Windows users- it is recommended that during installation in advanced options that you do not select "Add Anaconda3 to my PATH" (top check box) because this may cause version conflits.
+
 https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_Python.html
 
 If you are having trouble installing Python on your own computer, you can also work interactively using the Jupyter notebooks online with the following binder link:
