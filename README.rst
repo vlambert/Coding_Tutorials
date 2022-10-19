@@ -1,6 +1,5 @@
-=======
 Tutorials for introductory coding in Python and practical scientific computing, supported by the UC Santa Cruz Geoscientists Encouraging Openness & Diversity in the Earth Sciences (GEODES).
-=======
+-------
 
 This series is a continuation of the 2021 coding exercises developed in collaboration with Kelian Dascher-Cousineau <https://github.com/keliankaz/GEODES>.
 
