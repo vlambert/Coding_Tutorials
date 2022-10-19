@@ -3,7 +3,7 @@ Tutorials for introductory coding in Python and practical scientific computing, 
 
 This series is a continuation of the 2021 coding exercises developed in collaboration with Kelian Dascher-Cousineau <https://github.com/keliankaz/GEODES>.
 
-If you encounter any problems or have any questions, feel free to contact *Valère Lambert* (valamber@ucsc.edu) or *Travis Alongi* (alongi@ucsc.edu).
+If you encounter any problems or have any questions, feel free to contact *Valère Lambert* (valamber@ucsc.edu) or *Travis Alongi* (talongi@ucsc.edu).
 
 To get started, you will want to have Anaconda installed on your computer. If you do not already, please follow this link:
 
