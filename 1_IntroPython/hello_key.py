@@ -3,9 +3,6 @@ Oct 2022.
 
 Potential solutions to questions in hello.py
 
-Note: you may need to remove the first 2 lines of code for this to work
-on your machine.
-
 @author ⤳ Valere Lambert & Travis Alongi
 """
 
